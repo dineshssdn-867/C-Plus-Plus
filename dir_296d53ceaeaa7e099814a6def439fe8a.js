@@ -1,5 +1,7 @@
 var dir_296d53ceaeaa7e099814a6def439fe8a =
 [
+    [ "approximate_pi.cpp", "d0/d51/approximate__pi_8cpp.html", "d0/d51/approximate__pi_8cpp" ],
+    [ "area.cpp", "dc/d82/area_8cpp.html", "dc/d82/area_8cpp" ],
     [ "armstrong_number.cpp", "d4/d5d/math_2armstrong__number_8cpp.html", "d4/d5d/math_2armstrong__number_8cpp" ],
     [ "binary_exponent.cpp", "de/dcf/binary__exponent_8cpp.html", "de/dcf/binary__exponent_8cpp" ],
     [ "binomial_calculate.cpp", "d8/db1/binomial__calculate_8cpp.html", "d8/db1/binomial__calculate_8cpp" ],
@@ -17,9 +19,13 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "fibonacci_large.cpp", "de/de4/fibonacci__large_8cpp.html", "de/de4/fibonacci__large_8cpp" ],
     [ "fibonacci_matrix_exponentiation.cpp", "da/dc9/fibonacci__matrix__exponentiation_8cpp.html", "da/dc9/fibonacci__matrix__exponentiation_8cpp" ],
     [ "fibonacci_sum.cpp", "de/dc3/fibonacci__sum_8cpp.html", "de/dc3/fibonacci__sum_8cpp" ],
+    [ "finding_number_of_digits_in_a_number.cpp", "d0/d46/finding__number__of__digits__in__a__number_8cpp.html", "d0/d46/finding__number__of__digits__in__a__number_8cpp" ],
     [ "gcd_iterative_euclidean.cpp", "d4/da0/gcd__iterative__euclidean_8cpp.html", "d4/da0/gcd__iterative__euclidean_8cpp" ],
     [ "gcd_of_n_numbers.cpp", "d1/d11/gcd__of__n__numbers_8cpp.html", "d1/d11/gcd__of__n__numbers_8cpp" ],
     [ "gcd_recursive_euclidean.cpp", "d4/d45/gcd__recursive__euclidean_8cpp.html", "d4/d45/gcd__recursive__euclidean_8cpp" ],
+    [ "integral_approximation.cpp", "d1/de9/integral__approximation_8cpp.html", "d1/de9/integral__approximation_8cpp" ],
+    [ "integral_approximation2.cpp", "db/d40/integral__approximation2_8cpp.html", "db/d40/integral__approximation2_8cpp" ],
+    [ "inv_sqrt.cpp", "d6/db8/inv__sqrt_8cpp.html", "d6/db8/inv__sqrt_8cpp" ],
     [ "large_factorial.cpp", "d6/d9d/large__factorial_8cpp.html", "d6/d9d/large__factorial_8cpp" ],
     [ "large_number.h", "d4/d86/large__number_8h.html", [
       [ "large_number", "db/d82/classlarge__number.html", "db/d82/classlarge__number" ]
@@ -32,9 +38,11 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "modular_division.cpp", "df/d72/modular__division_8cpp.html", "df/d72/modular__division_8cpp" ],
     [ "modular_exponentiation.cpp", "d0/d6d/modular__exponentiation_8cpp.html", "d0/d6d/modular__exponentiation_8cpp" ],
     [ "modular_inverse_fermat_little_theorem.cpp", "d8/d53/modular__inverse__fermat__little__theorem_8cpp.html", "d8/d53/modular__inverse__fermat__little__theorem_8cpp" ],
+    [ "n_bonacci.cpp", "db/d27/n__bonacci_8cpp.html", "db/d27/n__bonacci_8cpp" ],
     [ "n_choose_r.cpp", "d1/dbb/n__choose__r_8cpp.html", "d1/dbb/n__choose__r_8cpp" ],
     [ "ncr_modulo_p.cpp", "de/dab/ncr__modulo__p_8cpp.html", "de/dab/ncr__modulo__p_8cpp" ],
     [ "number_of_positive_divisors.cpp", "d0/da2/number__of__positive__divisors_8cpp.html", "d0/da2/number__of__positive__divisors_8cpp" ],
+    [ "perimeter.cpp", "d3/dfe/perimeter_8cpp.html", "d3/dfe/perimeter_8cpp" ],
     [ "power_for_huge_numbers.cpp", "df/def/power__for__huge__numbers_8cpp.html", "df/def/power__for__huge__numbers_8cpp" ],
     [ "power_of_two.cpp", "d4/d38/power__of__two_8cpp.html", "d4/d38/power__of__two_8cpp" ],
     [ "prime_factorization.cpp", "db/d0d/prime__factorization_8cpp.html", "db/d0d/prime__factorization_8cpp" ],
@@ -46,5 +54,6 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "string_fibonacci.cpp", "de/d47/string__fibonacci_8cpp.html", "de/d47/string__fibonacci_8cpp" ],
     [ "sum_of_binomial_coefficient.cpp", "d4/d9d/sum__of__binomial__coefficient_8cpp.html", "d4/d9d/sum__of__binomial__coefficient_8cpp" ],
     [ "sum_of_digits.cpp", "d4/d83/sum__of__digits_8cpp.html", "d4/d83/sum__of__digits_8cpp" ],
-    [ "vector_cross_product.cpp", "df/d66/vector__cross__product_8cpp.html", "df/d66/vector__cross__product_8cpp" ]
+    [ "vector_cross_product.cpp", "df/d66/vector__cross__product_8cpp.html", "df/d66/vector__cross__product_8cpp" ],
+    [ "volume.cpp", "da/d39/volume_8cpp.html", "da/d39/volume_8cpp" ]
 ];

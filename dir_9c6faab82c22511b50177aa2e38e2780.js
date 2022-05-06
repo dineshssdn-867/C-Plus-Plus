@@ -1,13 +1,18 @@
 var dir_9c6faab82c22511b50177aa2e38e2780 =
 [
+    [ "babylonian_method.cpp", "dc/d9c/babylonian__method_8cpp.html", "dc/d9c/babylonian__method_8cpp" ],
     [ "bisection_method.cpp", "d7/d6a/bisection__method_8cpp.html", "d7/d6a/bisection__method_8cpp" ],
     [ "brent_method_extrema.cpp", "db/d01/brent__method__extrema_8cpp.html", "db/d01/brent__method__extrema_8cpp" ],
+    [ "composite_simpson_rule.cpp", "d4/d18/composite__simpson__rule_8cpp.html", "d4/d18/composite__simpson__rule_8cpp" ],
     [ "durand_kerner_roots.cpp", "da/df2/durand__kerner__roots_8cpp.html", "da/df2/durand__kerner__roots_8cpp" ],
     [ "false_position.cpp", "dd/d29/false__position_8cpp.html", "dd/d29/false__position_8cpp" ],
+    [ "fast_fourier_transform.cpp", "d8/d9a/fast__fourier__transform_8cpp.html", "d8/d9a/fast__fourier__transform_8cpp" ],
     [ "gaussian_elimination.cpp", "d0/de2/gaussian__elimination_8cpp.html", "d0/de2/gaussian__elimination_8cpp" ],
     [ "golden_search_extrema.cpp", "d6/d7a/golden__search__extrema_8cpp.html", "d6/d7a/golden__search__extrema_8cpp" ],
+    [ "inverse_fast_fourier_transform.cpp", "d9/d37/inverse__fast__fourier__transform_8cpp.html", "d9/d37/inverse__fast__fourier__transform_8cpp" ],
     [ "lu_decompose.cpp", "dd/d65/lu__decompose_8cpp.html", "dd/d65/lu__decompose_8cpp" ],
     [ "lu_decomposition.h", "d1/dbe/lu__decomposition_8h.html", "d1/dbe/lu__decomposition_8h" ],
+    [ "midpoint_integral_method.cpp", "df/d11/midpoint__integral__method_8cpp.html", "df/d11/midpoint__integral__method_8cpp" ],
     [ "newton_raphson_method.cpp", "de/dd3/newton__raphson__method_8cpp.html", "de/dd3/newton__raphson__method_8cpp" ],
     [ "ode_forward_euler.cpp", "db/dd3/ode__forward__euler_8cpp.html", "db/dd3/ode__forward__euler_8cpp" ],
     [ "ode_midpoint_euler.cpp", "d6/dd3/ode__midpoint__euler_8cpp.html", "d6/dd3/ode__midpoint__euler_8cpp" ],
